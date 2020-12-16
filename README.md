@@ -1,1 +1,1 @@
-# [![](https://github.com/AnvarZiyodov/dino.gif)](#)
+# ![](dino.gif)(#)
